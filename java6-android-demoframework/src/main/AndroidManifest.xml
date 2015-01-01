@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="org.typhonrt.android.java6.gldemo.framework">
+
+    <application android:allowBackup="true"/>
+
+</manifest>
